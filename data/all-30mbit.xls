@@ -1,0 +1,3596 @@
+<html>
+<head>
+  <title>Breitbandverfügbarkeit auf der Basis von Gewerbekunden- Produkten - Berlin.de</title>
+  <style>/*<![CDATA[*/
+  td, th {text-align:left;border:0.1pt solid #ddd;}
+  /*]]>*/</style>
+</head>
+<body>
+  <div class="searchresult table-responsive"><table class="result table bordered-table zebra-striped"><thead><tr><th class="text" id="Kiezname">Kiezname</th>
+<th class="text" id="Bezirk">Bezirk</th>
+<th class="number" colspan="2" id="alle_Firmen_in_">alle Firmen in %</th>
+<th class="text" id="Firmen_500_MA_in_">Firmen &gt; 500 MA in %</th>
+<th class="text" id="Firmen_100-500_MA_in_">Firmen 100-500 MA in %</th>
+<th class="text" id="Firmen_6-100_MA_in_">Firmen 6-100 MA in %</th>
+<th class="text" id="Firmen_1-5_MA_in_">Firmen 1-5 MA in %</th>
+</tr>
+</thead>
+<tbody><tr class="odd line_0"><td class="text" headers="Kiezname">St&#252;lerstra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Gro&#223;er Tiergarten</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">L&#252;tzowstra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">K&#246;rnerstra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">N&#246;rdlicher Landwehrkanal</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wilhelmstra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Unter den Linden Nord</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Unter den Linden S&#252;d</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Leipziger Stra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Charit&#233;viertel</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Oranienburger Stra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Alexanderplatzviertel</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Karl-Marx-Allee</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Heine-Viertel West</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Heine-Viertel Ost</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Invalidenstra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Arkonaplatz</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Huttenkiez</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Beusselkiez</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Westhafen</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Emdener Stra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Zwinglistra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Elberfelder Stra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Stephankiez</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Heidestra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">L&#252;becker Stra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Thomasiusstra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Zillesiedlung</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">L&#252;neburger Stra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hansaviertel</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Soldiner Stra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Gesundbrunnen</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Brunnenstra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Humboldthain S&#252;d</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Humboldthain Nordwest</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rehberge</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Schillerpark</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Westliche M&#252;llerstra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Reinickendorfer Stra&#223;e</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Sparrplatz</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Leopoldplatz</td>
+<td class="text" headers="Bezirk">Mitte</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Askanischer Platz</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Mehringplatz</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Moritzplatz</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wassertorplatz</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Gleisdreieck/Entwicklungsgebiet</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Rathaus Yorckstra&#223;e</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Viktoriapark</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Urbanstra&#223;e</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Chamissokiez</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Graefekiez</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Oranienplatz</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Lausitzer Platz</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Reichenberger Stra&#223;e</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wrangelkiez</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Barnimkiez</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Friedenstra&#223;e</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Richard-Sorge-Viertel</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Andreasviertel</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Weberwiese</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wriezener Bahnhof/Entwicklungsgebiet</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hausburgviertel</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Samariterviertel</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Traveplatz</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Boxhagener Platz</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Stralauer Kiez</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Stralauer Halbinsel</td>
+<td class="text" headers="Bezirk">Friedrichshain-Kreuzberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Bucher Forst</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">90.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">92,6</td>
+<td class="text" headers="Firmen_1-5_MA_in_">90,2</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Buch</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">75.8</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">69,7</td>
+<td class="text" headers="Firmen_1-5_MA_in_">78,1</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Lietzengraben</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">38.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">45,6</td>
+<td class="text" headers="Firmen_1-5_MA_in_">31,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Blankenfelde</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">95.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">99,3</td>
+<td class="text" headers="Firmen_1-5_MA_in_">95</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Niedersch&#246;nhausen</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Herthaplatz</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Buchholz</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">98.7</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">98,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">98,7</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Karow Nord</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Alt-Karow</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Blankenburg</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Heinersdorf</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">M&#228;rchenland</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rosenthal</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wilhelmsruh</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Sch&#246;nholz</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Pankow Zentrum</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Pankow S&#252;d</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gustav-Adolf-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wei&#223;er See</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wei&#223;enseer Spitze</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Behaimstra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Komponistenviertel Wei&#223;ensee</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rennbahnstra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Buschallee</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hansastra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Arnimplatz</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Falkplatz</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Humannplatz</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Erich-Weinert-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Helmholtzplatz</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Greifswalder Stra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Volkspark Prenzlauer Berg</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Anton-Saefkow-Park</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Conrad-Blenkle-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Eldenaer Stra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Teutoburger Platz</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kollwitzplatz</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Th&#228;lmannpark</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Winsstra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">B&#246;tzowstra&#223;e</td>
+<td class="text" headers="Bezirk">Pankow</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Jungfernheide</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Pl&#246;tzensee</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Paul-Hertz-Siedlung</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Olympiagel&#228;nde</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Siedlung Ruhleben</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Angerburger Allee</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Flatowallee</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Kranzallee</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Eichkamp</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Park Ruhwald</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Reichsstra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Branitzer Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">K&#246;nigin-Elisabeth-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Messegel&#228;nde</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Schlo&#223;garten</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Klausenerplatz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Schlo&#223;stra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Tegeler Weg</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kaiserin-Augusta-Allee</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Alt-Lietzow</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Spreestadt</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Richard-Wagner-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Ernst-Reuter-Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Lietzensee</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Amtsgerichtsplatz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Droysenstra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Karl-August-Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Savignyplatz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hindemithplatz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">George-Grosz-Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Breitscheidplatz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Halensee</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">G&#252;terbahnhof Grunewald</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Bismarckallee</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hundekehle</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Hagenplatz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Flinsberger Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Kissinger Stra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Stadion Wilmersdorf</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Messelpark</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Breite Stra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Schlangenbader Stra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Binger Stra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">R&#252;desheimer Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Eisenzahnstra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Preu&#223;enpark</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Ludwigkirchplatz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Schaperstra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rathaus Wilmersdorf</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Leon-Jessel-Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Brabanter Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Nikolsburger Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Prager Platz</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wilhelmsaue</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Babelsberger Stra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Hildegardstra&#223;e</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Forst Grunewald</td>
+<td class="text" headers="Bezirk">Charlottenburg-Wilmersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">98.2</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">93,5</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Hakenfelde Nord</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">71.8</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">14,7</td>
+<td class="text" headers="Firmen_6-100_MA_in_">84,8</td>
+<td class="text" headers="Firmen_1-5_MA_in_">70</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Goltzstra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">99.5</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">99,4</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Amorbacher Weg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">80.7</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">88,1</td>
+<td class="text" headers="Firmen_1-5_MA_in_">79,5</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Griesingerstra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">85.4</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">91,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">82,2</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">An der Tr&#228;nke</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">60.1</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">63,5</td>
+<td class="text" headers="Firmen_1-5_MA_in_">58,6</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">G&#252;tersloher Weg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">72.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">67,6</td>
+<td class="text" headers="Firmen_1-5_MA_in_">73,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Darbystra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">92.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">93,7</td>
+<td class="text" headers="Firmen_1-5_MA_in_">92,7</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Germersheimer Platz</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">96.3</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">91,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">97,3</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">An der Kappe</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">68.3</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">67,5</td>
+<td class="text" headers="Firmen_1-5_MA_in_">68,5</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Eckschanze</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">97.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">97,6</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Eiswerder</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">84</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">83,5</td>
+<td class="text" headers="Firmen_1-5_MA_in_">83,9</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kurstra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">91.4</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">84</td>
+<td class="text" headers="Firmen_1-5_MA_in_">93,2</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Ackerstra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Carl-Schurz-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Freiheit</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Isenburger Weg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">87.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">88,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">87,6</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Am Heideberg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Staakener Stra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">91.5</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">95,8</td>
+<td class="text" headers="Firmen_1-5_MA_in_">89,4</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Spandauer Stra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">98.1</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">97,7</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Magistratsweg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">88.7</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">79,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">91,1</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Werkstra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">91.4</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">95,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">89,1</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">D&#246;beritzer Weg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">48.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">55,1</td>
+<td class="text" headers="Firmen_1-5_MA_in_">46,1</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Pillnitzer Weg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">64.1</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">64,3</td>
+<td class="text" headers="Firmen_1-5_MA_in_">64</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Maulbeerallee</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">95.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">96,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">95,2</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Weinmeisterhornweg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">71.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">61,7</td>
+<td class="text" headers="Firmen_1-5_MA_in_">74,5</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Borkumer Stra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">99.7</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">99,7</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Adamstra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">99.3</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">99,3</td>
+<td class="text" headers="Firmen_1-5_MA_in_">99,3</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Tiefwerder</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">96.9</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">96,1</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Graetschelsteig</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">59.4</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">75,6</td>
+<td class="text" headers="Firmen_1-5_MA_in_">56</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">B&#246;rnicker Stra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">65.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">94,6</td>
+<td class="text" headers="Firmen_6-100_MA_in_">65,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">66</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Zitadellenweg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">97.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">97,6</td>
+<td class="text" headers="Firmen_1-5_MA_in_">98</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Gartenfelder Stra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Rohrdamm</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Motardstra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Alt-Gatow</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">89.7</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">82,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">91,7</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Gro&#223;-Glienicker Weg</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">31.8</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">33,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">31,6</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">J&#228;gerallee</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">98.5</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">77,1</td>
+<td class="text" headers="Firmen_6-100_MA_in_">97,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">98,8</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kladower Damm</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">85.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">94,9</td>
+<td class="text" headers="Firmen_1-5_MA_in_">83,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Kafkastra&#223;e</td>
+<td class="text" headers="Bezirk">Spandau</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">98.8</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">98,6</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Fichtenberg</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Schlo&#223;stra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Markelstra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Munsterdamm</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">S&#252;dende</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Stadtpark</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Mittelstra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Bergstra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Feuerbachstra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Bismarckstra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Alt-Lankwitz</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Komponistenviertel Lankwitz</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Lankwitz Kirche</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Kaiser-Wilhelm-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Gemeindepark Lankwitz</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Lankwitz S&#252;d</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Thermometersiedlung</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Lichterfelde S&#252;d</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">K&#246;nigsberger Stra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Oberhofer Platz</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Sch&#252;tte-Lanz-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Berlepschstra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Zehlendorf S&#252;d</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Zehlendorf Mitte</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Teltower Damm</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Botanischer Garten</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hindenburgdamm</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Goerzwerke</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Schweizer Viertel</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Augustaplatz</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Lichterfelde West</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wannsee</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">79.8</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">20</td>
+<td class="text" headers="Firmen_6-100_MA_in_">73,9</td>
+<td class="text" headers="Firmen_1-5_MA_in_">82</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">D&#252;ppel</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Nikolassee</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Krumme Lanke</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Fischerh&#252;ttenstra&#223;e</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Fischtal</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Zehlendorf Eiche</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">H&#252;ttenweg</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Thielallee</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Dahlem</td>
+<td class="text" headers="Bezirk">Steglitz-Zehlendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wittenbergplatz/Viktoria-Luise-Platz</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Nollendorfplatz</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Barbarossaplatz</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Dennewitzplatz</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Bayerischer Platz</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Volkspark (Rudolf-Wilde-Park)</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Kaiser-Wilhelm-Platz</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Sch&#246;neberger Insel</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Friedenau</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Cecilieng&#228;rten</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Grazer Platz</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Neu-Tempelhof</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Lindenhofsiedlung</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Manteuffelstra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Marienh&#246;he</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rathaus Tempelhof</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Germaniagarten</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rathausstra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Fritz-Werner-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Eisenacher Stra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Imbrosweg</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hundsteinweg</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Birnhornweg</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Marienfelder Allee Nordwest</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Kirchstra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Marienfelde Nordost</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Marienfelde S&#252;d</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kettinger Stra&#223;e/Schillerstra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Alt-Lichtenrade/T&#246;pchiner Weg</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">John-Locke-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Nahariyastra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Franziusweg/Rohrbachstra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Horstwalder Stra&#223;e/Paplitzer Stra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wittelsbacherstra&#223;e</td>
+<td class="text" headers="Bezirk">Tempelhof-Sch&#246;neberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Hasenheide</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wissmannstra&#223;e</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Schillerpromenade</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Silbersteinstra&#223;e</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Flughafenstra&#223;e</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rollberg</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">K&#246;rnerpark</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Glasower Stra&#223;e</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Reuterkiez</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Bouch&#233;stra&#223;e</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Donaustra&#223;e</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rixdorf</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Hertzbergplatz</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Treptower Stra&#223;e Nord</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gewerbegebiet Ederstra&#223;e</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wei&#223;e Siedlung</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Schulenburgpark</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Gewerbegebiet K&#246;llnische Heide</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Buschkrugallee Nord</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Tempelhofer Weg</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Mohriner Allee Nord</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Parchimer Allee</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Ortolanweg</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Britzer Garten</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Handwerker-Siedlung</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Buckow West</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Buckow Mitte</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Buckow Ost</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gropiusstadt Nord</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">99.7</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">99,6</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Gropiusstadt S&#252;d</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">99.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">99,9</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gropiusstadt Ost</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">99.2</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">99,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">99,1</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Goldh&#228;hnchenweg</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Vogelviertel S&#252;d</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Vogelviertel Nord</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Blumenviertel</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">84.7</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">91,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">82,8</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Zittauer Stra&#223;e</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">88.5</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">83,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">89,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Alt-Rudow</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">86.5</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">86,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">86,4</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wa&#223;mannsdorfer Chaussee</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">92.5</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">91,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">92,7</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Frauenviertel</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">99.8</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">99,9</td>
+<td class="text" headers="Firmen_1-5_MA_in_">99,7</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Waltersdorfer Chaussee Ost</td>
+<td class="text" headers="Bezirk">Neuk&#246;lln</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">76.4</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">75,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">76,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Elsenstra&#223;e</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Am Treptower Park Nord</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Am Treptower Park S&#252;d</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">K&#246;penicker Landstra&#223;e</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Baumschulenstra&#223;e</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Sp&#228;thsfelde</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">99.2</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">99,8</td>
+<td class="text" headers="Firmen_1-5_MA_in_">98,9</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Johannisthal West</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Johannisthal Ost</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">96.9</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">97,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">96,7</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Obersch&#246;neweide West</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Obersch&#246;neweide Ost</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Schnellerstra&#223;e</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Oberspree</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Adlershof West</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">86.9</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">83,5</td>
+<td class="text" headers="Firmen_1-5_MA_in_">89,2</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Adlershof Ost</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">98.2</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">98,8</td>
+<td class="text" headers="Firmen_1-5_MA_in_">98</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Spindlersfeld</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">K&#246;llnische Vorstadt</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Dorf Altglienicke</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">87.9</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">86,1</td>
+<td class="text" headers="Firmen_1-5_MA_in_">88,4</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wohngebiet II</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">27.8</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">37,5</td>
+<td class="text" headers="Firmen_1-5_MA_in_">25,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">K&#246;lner Viertel</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">84.5</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">79,9</td>
+<td class="text" headers="Firmen_1-5_MA_in_">85,6</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Bohnsdorf</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">69.5</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">76,3</td>
+<td class="text" headers="Firmen_1-5_MA_in_">67,4</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gr&#252;nau</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">80.4</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">79,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">80,5</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Karolinenhof</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">95.5</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">88,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">97</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Schm&#246;ckwitz/Rauchfangswerder</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">84.2</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">87,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">83,4</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kietzer Feld/Nachtheide</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">91.6</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">88,3</td>
+<td class="text" headers="Firmen_1-5_MA_in_">92,4</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wendenschlo&#223;</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">83.3</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">65,5</td>
+<td class="text" headers="Firmen_1-5_MA_in_">86,7</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Allende I</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Allende II</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">95.4</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">94</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Altstadt Kietz</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">M&#252;ggelheim</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">56.8</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">53,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">57,4</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hirschgarten</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">81.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">61,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">87,5</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">B&#246;lschestra&#223;e</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">95.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">95,3</td>
+<td class="text" headers="Firmen_1-5_MA_in_">95,6</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rahnsdorf/Hessenwinkel</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">58</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">53,9</td>
+<td class="text" headers="Firmen_1-5_MA_in_">58,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Dammvorstadt</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">K&#246;penick Nord</td>
+<td class="text" headers="Bezirk">Treptow-K&#246;penick</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Marzahn West</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Havemannstra&#223;e</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gewerbegebiet Bitterfelder Stra&#223;e</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wuhletalstra&#223;e</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Marzahn Ost</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Ringkolonnaden</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Marzahner Promenade</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Marzahner Chaussee</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Springpfuhl</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Alt-Marzahn</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Landsberger Tor</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Alte Hellersdorfer Stra&#223;e</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gut Hellersdorf</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Helle Mitte</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Hellersdorfer Promenade</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">B&#246;hlener Stra&#223;e</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Adele-Sandrock-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Schleipfuhl</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Boulevard Kastanienallee</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kaulsdorf Nord II</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gelbes Viertel</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kaulsdorf Nord I</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Rotes Viertel</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Oberfeldstra&#223;e</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Buckower Ring</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Alt-Biesdorf</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Biesdorf S&#252;d</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kaulsdorf Nord</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Alt-Kaulsdorf</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Kaulsdorf S&#252;d</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Mahlsdorf Nord</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Alt-Mahlsdorf</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Mahlsdorf S&#252;d</td>
+<td class="text" headers="Bezirk">Marzahn-Hellersdorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Dorf Malchow</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Dorf Wartenberg</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Dorf Falkenberg</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Falkenberg Ost</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Falkenberg West</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wartenberg S&#252;d</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wartenberg Nord</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Zingster Stra&#223;e Ost</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Zingster Stra&#223;e West</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">M&#252;hlengrund</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Malchower Weg</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Hauptstra&#223;e</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Orankesee</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gro&#223;e-Leege-Stra&#223;e</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Landsberger Allee</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wei&#223;e Taube</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hohensch&#246;nhausener Stra&#223;e</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Fennpfuhl West</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Fennpfuhl Ost</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Herzbergstra&#223;e</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">R&#252;digerstra&#223;e</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Frankfurter Allee S&#252;d</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Victoriastadt</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Weitlingstra&#223;e</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rosenfelder Ring</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Gensinger Stra&#223;e</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Tierpark</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Sewanstra&#223;e</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Rummelsburg</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Karlshorst West</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Karlshorst Nord</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Karlshorst S&#252;d</td>
+<td class="text" headers="Bezirk">Lichtenberg</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Breitkopfbecken</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Hausotterplatz</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Letteplatz</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Teichstra&#223;e</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Sch&#228;fersee</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Humboldtstra&#223;e</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Waldidyll/Flughafensee</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Tegel S&#252;d</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Reinickes Hof</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Klixstra&#223;e</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Mellerbogen</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Scharnweberstra&#223;e</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Alt-Tegel</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">94.7</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">97,7</td>
+<td class="text" headers="Firmen_1-5_MA_in_">93,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Tegeler Forst</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">54.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">63,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">52</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Konradsh&#246;he/Tegelort</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">86.5</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">85</td>
+<td class="text" headers="Firmen_1-5_MA_in_">86,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Heiligensee</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">77.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">73,4</td>
+<td class="text" headers="Firmen_1-5_MA_in_">78,5</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Hermsdorf</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">84.5</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">87,1</td>
+<td class="text" headers="Firmen_1-5_MA_in_">83,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Frohnau</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">89.4</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">89,5</td>
+<td class="text" headers="Firmen_1-5_MA_in_">89,4</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Wittenau S&#252;d</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Wittenau Nord</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">96.1</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">97,6</td>
+<td class="text" headers="Firmen_1-5_MA_in_">95,5</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Waidmannslust</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">98.6</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">98,3</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">L&#252;bars</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">78.4</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">82,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">77,3</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Schorfheidestra&#223;e</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">M&#228;rkisches Zentrum</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Treuenbrietzener Stra&#223;e</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Dannenwalder Weg</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">L&#252;barser Stra&#223;e</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">99.8</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">99,7</td>
+<td class="text" headers="Firmen_1-5_MA_in_">99,8</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Rollbergesiedlung</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">98.2</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">98,6</td>
+<td class="text" headers="Firmen_1-5_MA_in_">98,1</td>
+</tr>
+<tr class="even line_0"><td class="text" headers="Kiezname">Borsigwalde</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">100</td>
+<td class="text" headers="Firmen_500_MA_in_">100</td>
+<td class="text" headers="Firmen_100-500_MA_in_">100</td>
+<td class="text" headers="Firmen_6-100_MA_in_">100</td>
+<td class="text" headers="Firmen_1-5_MA_in_">100</td>
+</tr>
+<tr class="odd line_0"><td class="text" headers="Kiezname">Ziekowstra&#223;e/Freie Scholle</td>
+<td class="text" headers="Bezirk">Reinickendorf</td>
+<td class="number" colspan="2" headers="alle_Firmen_in_">90.7</td>
+<td class="text" headers="Firmen_500_MA_in_">0</td>
+<td class="text" headers="Firmen_100-500_MA_in_">0</td>
+<td class="text" headers="Firmen_6-100_MA_in_">92,2</td>
+<td class="text" headers="Firmen_1-5_MA_in_">90,3</td>
+</tr>
+</tbody>
+</table></div></body>
+</html>

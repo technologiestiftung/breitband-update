@@ -1,0 +1,27 @@
+{
+  "name": "breitband-update",
+  "version": "1.0.0",
+  "description": "Smaller visualisation on Berlin's progress of the broadband expansion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technologiestiftung/breitband-update.git"
+  },
+  "author": "Sebastian Meier @seb_meier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/technologiestiftung/breitband-update/issues"
+  },
+  "homepage": "https://github.com/technologiestiftung/breitband-update#readme",
+  "dependencies": {
+    "@turf/rewind": "^5.1.5",
+    "@turf/turf": "^5.1.6",
+    "d3": "^4.13.0",
+    "fs": "0.0.1-security",
+    "topojson": "^3.0.2",
+    "turf": "^3.0.14"
+  }
+}

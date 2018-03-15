@@ -1,0 +1,243 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta charset="UTF-8" />
+		<title>Breitbandausbau Berlin</title>
+		<link rel="stylesheet" href="css/main.css" type="text/css" />
+		<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+	</head>
+	<body>
+
+		<section id="entwicklung">
+			<div id="minimap" class="white">
+				<div class="container">
+					<div class="row">
+						<div class="col col-xs-12 col-sm-5 col-lg-5">
+							<div class="mapswitch-head">
+								<h3>Entwicklung des Breitbandausbaus</h3>
+								<p>Seit fünf Jahren erhebt die Berliner Senatsverwaltung Daten zum Breitbandausbau auf Ortsteilebene. Die Daten zeigen, dass Teile Ostberlins noch 2011 massiv unterversorgt waren. Inzwischen holt der Osten auf, der Bezirk Pankow bleibt aber Schlusslicht.</p>
+							</div>
+						</div>
+						<div class="col col-xs-12 col-sm-1 col-lg-2"></div>
+						<div class="col col-xs-12 col-sm-6 col-lg-5">
+							<div class="row switchrow">
+								<div class="col col-xs-12 red company-help">
+									<span class="image image-interactive"></span><strong>2011 - 2017</strong>
+									<p class="speed-info speed-info-16">Für normales Surfen im Internet und die meisten anderen webbasierten Anwendungen sind 16&nbsp;Mbit/s-Anbindungen ausreichend.</p>
+									<p class="speed-info speed-info-50">50&nbsp;Mbit/s Anbindungen erlauben darüber hinaus das nutzen von neuen HD-Streaming Diensten und professionellen Anwendungen.</p>
+								</div>
+							</div>
+							<div class="row switchrow">
+								<div class="col col-xs-12 col-sm-6" data-speed="16">
+									<div class="mapswitch red">16Mbit/s</div>
+									<div class="hidden-xs triangle bottom red"></div>
+								</div>
+								<div class="col col-xs-12 col-sm-6" data-speed="50">
+									<div class="mapswitch light_red">50Mbit/s</div>
+									<div class="hidden-xs triangle bottom red" style="display:none;"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col col-xs-12 col-sm-1"></div>
+					<div class="col col-xs-12 col-sm-2">
+						<div class="minimap mm-2011" data-year="2011"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-2">
+						<div class="minimap mm-2012" data-year="2012"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-2">
+						<div class="minimap mm-2013" data-year="2013"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-2">
+						<div class="minimap mm-2015" data-year="2015"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-2">
+						<div class="minimap mm-2017" data-year="2017"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-1"></div>
+				</div>
+				<div class="row">
+					<div class="datacol col col-xs-12">
+						<svg id="minimap-legend" height="50" width="240"></svg><br />
+						<span class="small">Prozentuale Verfügbarkeit</span>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section id="bezirke">
+			<div id="compare">
+				<div class="container">
+					<div class="row">
+						<div class="col col-xs-12 col-sm-4 col-lg-4">
+							<div class="red company-help pulse-help">
+								<strong>Bezirke im Detail</strong>
+								<p>Prozentuale Verfügbarkeit von<br />16Mbit | 50Mbit</p>
+							</div>
+							<div id="compare-legend"></div>
+						</div>
+						<div class="chart"></div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section id="karte">
+			<div id="map-gui">
+				<div class="selector">
+					<span class="selector-title">Nutzergrupppe</span><br />
+					<select id="map-type">
+						<option value="b">Geschäftlich</option>
+						<option value="p">Privat</option>
+					</select>
+				</div>
+				<div class="selector">
+					<span class="selector-title">Technologie</span><br />
+					<select id="map-technology">
+						<option value="alle">Alle</option>
+						<option class="b-disable" value="wireless" disabled="disabled">Drahtlos</option>
+						<option class="b-disable" value="wired" disabled="disabled">Leitungsgebunden</option>
+					</select>
+				</div>
+				<div class="selector">
+					<span class="selector-title">Geschwindigkeit</span><br />
+					<select id="map-speed">
+						<option value="100">100 Mbit/s</option>
+						<option value="50"> 50 Mbit/s</option>
+						<option value="30"> 30 Mbit/s</option>
+						<option class="b-disable" value="16" disabled="disabled"> 16 Mbit/s</option>
+						<option value="10" class="p-disable"> 10 Mbit/s</option>
+						<option class="b-disable" value="6" disabled="disabled">  6 Mbit/s</option>
+						<option value="2">  2 Mbit/s</option>
+						<option class="b-disable" value="1" disabled="disabled">  1 Mbit/s</option>
+					</select>
+				</div>
+			</div>
+			<div id="map"></div>
+			<div id="map-legend-container">
+				<svg id="map-legend" height="50" width="240"></svg><br />
+				<span class="small">Prozentuale Verfügbarkeit</span>
+			</div>
+		</section>
+
+		<section id="korrelation">
+			<div id="correlation">
+				<div class="row">
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="p-all-100_mbit" data-type="dist"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="p-all-50_mbit" data-type="dist"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="p-all-16_mbit" data-type="dist"></div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="p-all-100_mbit" data-type="east"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="p-all-50_mbit" data-type="east"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="p-all-16_mbit" data-type="east"></div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="p-all-100_mbit" data-type="population"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="p-all-50_mbit" data-type="population"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="p-all-16_mbit" data-type="population"></div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="b-100-alle" data-type="dist"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="b-50-alle" data-type="dist"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="b-10-alle" data-type="dist"></div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="b-100-alle" data-type="east"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="b-50-alle" data-type="east"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="b-10-alle" data-type="east"></div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="b-100-alle" data-type="population"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="b-50-alle" data-type="population"></div>
+					</div>
+					<div class="col col-xs-12 col-sm-4">
+						<div class="correlation" data-speed="b-10-alle" data-type="population"></div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section id="bevoelkerung">
+			<div id="population-gui">
+				<a class="population-button" data-key="16">16 Mbit/s</a>
+				<a class="population-button" data-key="50">50 Mbit/s</a>
+				<a class="population-button" data-key="100">100 Mbit/s</a>
+			</div>
+			<div id="population"></div>
+		</section>
+
+		<!-- Breitband Scripts -->
+		<script type="text/javascript" src="js/breitband-min.js"></script>
+		<script type="text/javascript">
+			var tooltip = d3_tooltip();
+			d3.select('body').call(tooltip);
+
+			d3.json('data/complete.topojson', function(err, data){
+				var geo_data = topojson.feature(data, data.objects.Bezirk).features;
+				var correlation = d3_correlation(geo_data);
+				d3.selectAll('.correlation').call(correlation);
+				var map = d3_map(geo_data);
+				d3.selectAll('#map').call(map);
+				var population = d3_population(geo_data);
+				d3.selectAll('#population').call(population);
+			
+			});
+
+			var minimap = d3_minimap();
+			d3.selectAll('.minimap').call(minimap);
+
+			var compare = d3_compare();
+			d3.selectAll('#compare-container').call(compare);
+
+			d3.select(window).on('resize', debouncer(function(e){
+				minimap.resize();
+				map.resize();
+				correlation.resize();
+				compare.resize();
+			}));
+
+		</script>
+	</body>
+</html>

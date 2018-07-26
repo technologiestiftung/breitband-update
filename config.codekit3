@@ -7,7 +7,7 @@
 		"uuidString": "16D32F5A-C2B6-4023-B519-9321EE9C520D"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -614,7 +614,8 @@
 	"creationDate": 542569582,
 	"displayValue": "breitband-update@tsb@github",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-daenerys"
+	"iconImageName": "meme-daenerys",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2417,6 +2418,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {

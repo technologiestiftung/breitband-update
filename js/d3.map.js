@@ -79,7 +79,11 @@ function d3_map(_geo_data){
 				var o = d3.select(this);
 				var d = o.data()[0];
 				var bb = o.node().getBoundingClientRect();
-				tooltip.content('<strong>'+d.properties.bez+', '+d.properties.bzr+', '+d.properties.plr+'</strong><br />Netz mit einer Geschwindigkeit von<br /> bis zu '+speedTitle+' Mbit/s ist zu '+d.properties[speedKey]+'% verfügbar.');
+				if(lang == 'de'){
+					tooltip.content('<strong>'+d.properties.bez+', '+d.properties.bzr+', '+d.properties.plr+'</strong><br />Netz mit einer Geschwindigkeit von<br /> bis zu '+speedTitle+' Mbit/s ist zu '+d.properties[speedKey]+'% verfügbar.');
+				}else{
+					tooltip.content('<strong>'+d.properties.bez+', '+d.properties.bzr+', '+d.properties.plr+'</strong><br />Connection speeds <br /> of up to '+speedTitle+' Mbit/s are '+d.properties[speedKey]+'% available.');
+				}
 				tooltip.position([bb.left+window.pageXOffset+bb.width/2, bb.top+window.pageYOffset+bb.height/2]);
 				tooltip.show(); 
 			})

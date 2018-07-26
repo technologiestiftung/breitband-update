@@ -131,68 +131,92 @@
 		<section id="korrelation">
 			<div id="correlation">
 				<div class="row">
+					<h3>Private Anschlüsse, sortiert nach Abstand zur Berliner Mitte<br /><span class="small">Von links im Zentrum nach rechts am Rande Berlins</span></h3>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>100 Mbit/s</h4>
 						<div class="correlation" data-speed="p-all-100_mbit" data-type="dist"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>50 Mbit/s</h4>
 						<div class="correlation" data-speed="p-all-50_mbit" data-type="dist"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>16 Mbit/s</h4>
 						<div class="correlation" data-speed="p-all-16_mbit" data-type="dist"></div>
 					</div>
 				</div>
 				<div class="row">
+					<h3>Private Anschlüsse, sortiert ehem. Ost-Berlin, Grenzbereich und West-Berlin</h3>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>100 Mbit/s</h4>
 						<div class="correlation" data-speed="p-all-100_mbit" data-type="east"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>50 Mbit/s</h4>
 						<div class="correlation" data-speed="p-all-50_mbit" data-type="east"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>16 Mbit/s</h4>
 						<div class="correlation" data-speed="p-all-16_mbit" data-type="east"></div>
 					</div>
 				</div>
 				<div class="row">
+					<h3>Private Anschlüsse, sortiert nach Einwohnerzahl<br /><span class="small">Von links wenig Einwohner nach rechts viele Einwohner</span></h3>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>100 Mbit/s</h4>
 						<div class="correlation" data-speed="p-all-100_mbit" data-type="population"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>50 Mbit/s</h4>
 						<div class="correlation" data-speed="p-all-50_mbit" data-type="population"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>16 Mbit/s</h4>
 						<div class="correlation" data-speed="p-all-16_mbit" data-type="population"></div>
 					</div>
 				</div>
 				<div class="row">
+					<h3>Geschäftliche Anschlüsse, sortiert nach Abstand zur Berliner Mitte<br /><span class="small">Von links im Zentrum nach rechts am Rande Berlins</span></h3>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>100 Mbit/s</h4>
 						<div class="correlation" data-speed="b-100-alle" data-type="dist"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>50 Mbit/s</h4>
 						<div class="correlation" data-speed="b-50-alle" data-type="dist"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>10 Mbit/s</h4>
 						<div class="correlation" data-speed="b-10-alle" data-type="dist"></div>
 					</div>
 				</div>
 				<div class="row">
+					<h3>Geschäftliche Anschlüsse, sortiert ehem. Ost-Berlin, Grenzbereich und West-Berlin</h3>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>100 Mbit/s</h4>
 						<div class="correlation" data-speed="b-100-alle" data-type="east"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>50 Mbit/s</h4>
 						<div class="correlation" data-speed="b-50-alle" data-type="east"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>10 Mbit/s</h4>
 						<div class="correlation" data-speed="b-10-alle" data-type="east"></div>
 					</div>
 				</div>
 				<div class="row">
+					<h3>Geschäftliche Anschlüsse, sortiert nach Einwohnerzahl<br /><span class="small">Von links wenig Einwohner nach rechts viele Einwohner</span></h3>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>100 Mbit/s</h4>
 						<div class="correlation" data-speed="b-100-alle" data-type="population"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>50 Mbit/s</h4>
 						<div class="correlation" data-speed="b-50-alle" data-type="population"></div>
 					</div>
 					<div class="col col-xs-12 col-sm-4">
+						<h4>10 Mbit/s</h4>
 						<div class="correlation" data-speed="b-10-alle" data-type="population"></div>
 					</div>
 				</div>
@@ -201,9 +225,7 @@
 
 		<section id="bevoelkerung">
 			<div id="population-gui">
-				<a class="population-button" data-key="16">16 Mbit/s</a>
-				<a class="population-button" data-key="50">50 Mbit/s</a>
-				<a class="population-button" data-key="100">100 Mbit/s</a>
+				<a class="population-button active" data-key="16">16 Mbit/s</a><a class="population-button" data-key="50">50 Mbit/s</a><a class="population-button" data-key="100">100 Mbit/s</a>
 			</div>
 			<div id="population"></div>
 		</section>
@@ -211,16 +233,18 @@
 		<!-- Breitband Scripts -->
 		<script type="text/javascript" src="js/breitband-min.js"></script>
 		<script type="text/javascript">
+			var geo_data, correlation, map, population;
+
 			var tooltip = d3_tooltip();
 			d3.select('body').call(tooltip);
 
 			d3.json('data/complete.topojson', function(err, data){
-				var geo_data = topojson.feature(data, data.objects.Bezirk).features;
-				var correlation = d3_correlation(geo_data);
+				geo_data = topojson.feature(data, data.objects.Bezirk).features;
+				correlation = d3_correlation(geo_data);
 				d3.selectAll('.correlation').call(correlation);
-				var map = d3_map(geo_data);
+				map = d3_map(geo_data);
 				d3.selectAll('#map').call(map);
-				var population = d3_population(geo_data);
+				population = d3_population(geo_data);
 				d3.selectAll('#population').call(population);
 			
 			});
@@ -236,6 +260,7 @@
 				map.resize();
 				correlation.resize();
 				compare.resize();
+				population.resize();
 			}));
 
 		</script>

@@ -40,12 +40,14 @@ function d3_correlation(_geo_data){
 			var speed = sel.attr('data-speed'),
 				type = sel.attr('data-type');
 
-			svg.selectAll('rect').data(data.sort(function(a,b){
+			var tdata = data.sort(function(a,b){
 				if(a.properties[type] == b.properties[type]){
 					return a.properties[speed] - b.properties[speed]
 				}
 				return a.properties[type] - b.properties[type];
-			})).enter().append("rect")
+			});
+
+			svg.selectAll('rect').data(tdata).enter().append("rect")
 				.style('stroke', 'transparent')
 				.style('fill',function(d){
 					var color = color_scale(d.properties[speed]);
@@ -61,11 +63,57 @@ function d3_correlation(_geo_data){
 				.attr("y", function(d){
 					return height-2*padding-y(d.properties[speed]);
 				});
+
+			
+			if(type == 'dist' || type == 'population'){
+				correlation.trendline(tdata, speed, svg, 0, tdata.length-1);
+			}else{
+
+				([0,1,2]).forEach(function(keyValue){
+					var trenddata = [], start = false, end = 0;
+					tdata.forEach(function(d,di){
+						if(d.properties[type] == keyValue){
+							trenddata.push(d);
+							if(end<di){end = di;}
+							if(!start){
+								start = di;
+							}
+						}
+					});
+					correlation.trendline(trenddata, speed, svg, start, end);
+				});
+
+			}
+			
 		});
 
 		//svg.append('text').text(year).attr('x',width/2).attr('y',height/2+130).attr('text-anchor', 'middle');
 
 		correlation.resize();
+	};
+
+	correlation.trendline = function(tdata, speed, svg, start, end) {
+		var xSeries = d3.range(1, tdata.length + 1);
+		var ySeries = data.map(function(d) { return parseFloat(d.properties[speed]); });
+	
+		var leastSquaresCoeff = leastSquares(xSeries, ySeries);
+	
+		// apply the reults of the least squares regression
+		var x1 = start;
+		var y1 = leastSquaresCoeff[0] + leastSquaresCoeff[1];
+		var x2 = end;
+		var y2 = leastSquaresCoeff[0] * xSeries.length + leastSquaresCoeff[1];
+		var trendData = [x1,y1,x2,y2];
+
+
+		var trendline = svg.append("line").datum(trendData)
+				.attr("class", "trendline")
+				.attr("x1", function(d) { return x(d[0]); })
+				.attr("y1", function(d) { return height-y(d[1]); })
+				.attr("x2", function(d) { return x(d[2]); })
+				.attr("y2", function(d) { return height-y(d[3]); })
+				.attr("stroke", "black")
+				.attr("stroke-width", 1);
 	};
 
 	correlation.resize = function(){
@@ -75,6 +123,29 @@ function d3_correlation(_geo_data){
 		height = width/3;
 		svg.style('height', height+'px');
 	};
+
+	// returns slope, intercept and r-square of the line
+	function leastSquares(xSeries, ySeries) {
+		var reduceSumFunc = function(prev, cur) { return prev + cur; };
+		
+		var xBar = xSeries.reduce(reduceSumFunc) * 1.0 / xSeries.length;
+		var yBar = ySeries.reduce(reduceSumFunc) * 1.0 / ySeries.length;
+
+		var ssXX = xSeries.map(function(d) { return Math.pow(d - xBar, 2); })
+			.reduce(reduceSumFunc);
+		
+		var ssYY = ySeries.map(function(d) { return Math.pow(d - yBar, 2); })
+			.reduce(reduceSumFunc);
+			
+		var ssXY = xSeries.map(function(d, i) { return (d - xBar) * (ySeries[i] - yBar); })
+			.reduce(reduceSumFunc);
+			
+		var slope = ssXY / ssXX;
+		var intercept = yBar - (xBar * slope);
+		var rSquare = Math.pow(ssXY, 2) / (ssXX * ssYY);
+		
+		return [slope, intercept, rSquare];
+	}
 
 	return correlation;
 }

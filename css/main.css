@@ -1,9 +1,5 @@
-body, html {
-  font-family: 'ClanOT-Book', sans-serif;
-  width: 100%;
-  margin: 0px;
-  padding: 0px;
-  overflow-x: hidden; }
+body {
+  background-color: #F2F2F2; }
 
 /*
 font-family: "ClanOT-Medium";
@@ -242,7 +238,7 @@ h3 {
   color: #000; }
 
 #compare .menu .entry.hover {
-  background: #eee; }
+  background: #ddd; }
 
 #compare .menu .entry {
   cursor: pointer;
@@ -292,7 +288,7 @@ h3 {
   pointer-events: none; }
 
 #compare .chart.hover .ortsteil {
-  stroke: #eee; }
+  stroke: #ddd; }
 
 #compare .chart.hover .hover {
   stroke: #E60032;
@@ -306,7 +302,7 @@ h3 {
   stroke-linejoin: round; }
 
 #compare .chart.active .bezirke .ortsteil {
-  stroke: #eee;
+  stroke: #ddd;
   pointer-events: none; }
 
 #compare .chart.active .bezirke.active .ortsteil {
@@ -392,7 +388,7 @@ h3 {
 
 #karte {
   text-align: center;
-  padding-top: 100px;
+  padding-top: 50px;
   padding-bottom: 100px; }
 
 #karte .selector {
@@ -404,5 +400,46 @@ h3 {
   padding-bottom: 5px;
   display: inline-block; }
 
+/*----- Correlation ------*/
 .correlation svg {
   width: 100%; }
+
+.project main #correlation h4 {
+  max-width: none;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 10px 0 0 20px;
+  margin: 0; }
+
+.project main #correlation h3 {
+  max-width: none;
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  font-weight: bold; }
+
+#correlation .row:hover {
+  background-color: rgba(0, 0, 0, 0.2); }
+
+#population-gui {
+  padding-top: 50px;
+  text-align: center; }
+
+#population-gui a {
+  padding: 7px 10px;
+  display: inline-block;
+  background-color: rgba(230, 0, 50, 0.3);
+  color: #e60032;
+  font-weight: bold;
+  margin: 0;
+  font-size: 16px; }
+  #population-gui a.active, #population-gui a:hover {
+    cursor: pointer;
+    text-decoration: none;
+    background-color: #e60032;
+    color: white; }
+
+#correlation .row {
+  padding-top: 20px; }

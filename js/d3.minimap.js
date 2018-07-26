@@ -86,7 +86,11 @@ function d3_minimap(){
 					var o = d3.select(this);
 					var d = o.data()[0];
 					var bb = o.node().getBoundingClientRect();
-					tooltip.content("<strong>"+d.properties.name+"</strong><br />Netz mit einer Geschwindigkeit von<br /> bis zu "+speed+" Mbit/s ist zu "+(districts[d.properties.name][year]["leitung"+speed]/districts[d.properties.name][year].count).toFixed(2)+"% verfügbar.");
+					if(lang == 'de'){
+						tooltip.content("<strong>"+d.properties.name+"</strong><br />Netz mit einer Geschwindigkeit von<br /> bis zu "+speed+" Mbit/s ist zu "+(districts[d.properties.name][year]["leitung"+speed]/districts[d.properties.name][year].count).toFixed(2)+"% verfügbar.");
+					}else{
+						tooltip.content("<strong>"+d.properties.name+"</strong><br />Connections with speeds<br /> of up to "+speed+" Mbit/s are "+(districts[d.properties.name][year]["leitung"+speed]/districts[d.properties.name][year].count).toFixed(2)+"% available.");
+					}
 					tooltip.position([bb.left+window.pageXOffset+bb.width/2, bb.top+window.pageYOffset+bb.height/2]);
 					tooltip.show(); 
 				})

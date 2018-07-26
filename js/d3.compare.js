@@ -270,6 +270,7 @@ function d3_compare(){
 			})
 			.attr("class", "col col-xs-12 col-sm-4 col-lg-4")
 			.append("svg")
+			.style('margin-top','20px')
 			.attr('id', function(d){ return d.key; })
 			.append("g")
 			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
